@@ -17,7 +17,7 @@ My goal is to build a career in cybersecurity with a focus on Security Operation
 
 | Skill | Associated Project |
 |---|---|
-| Security Auditing & Risk Assessment | Internal Security Audit Project |
+| Security Auditing & Risk Assessment | <a href="https://github.com/hamzaishmael/Internal-Security-Audit.git">Internal Security Audit Project </a> |
 | Threat Detection & Log Analysis | Detection Lab |
 | Network Traffic Analysis | Detection Lab |
 | Incident Response Fundamentals | SOC Automation Lab |
