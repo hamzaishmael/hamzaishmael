@@ -20,7 +20,7 @@ My goal is to build a career in cybersecurity with a focus on Security Operation
 | Security Auditing & Risk Assessment | <a href="https://github.com/hamzaishmael/Internal-Security-Audit.git">Internal Security Audit Project </a> |
 | Threat Detection & Log Analysis |<a href="https://github.com/hamzaishmael/Threat-Detection-and-Network-Log-Analysis-Using-Tcpdump.git">Threat Detection and Network Log Analysis Using Tcpdump</a> |
 | Network Traffic Analysis |<a href="https://github.com/hamzaishmael/TCP-SYN-Flood-attack-analysis.git">TCP SYN Flood Incident Analysis </a> |
-| Incident Response Fundamentals | SOC Automation Lab |
+| Incident Response Fundamentals |<a href="https://github.com/hamzaishmael/Incident-response-to-a-Website-compromise-.git"> Malware Redirection Attack Investigation</a> |
 | SIEM Monitoring | SOC Monitoring Project |
 | Security Documentation & Reporting | NIST Risk Assessment Project |
 | Python Fundamentals for Security | Python Security Exercises |
