@@ -17,13 +17,14 @@ My goal is to build a career in cybersecurity with a focus on Security Operation
 
 | Skill | Associated Project |
 |---|---|
-| Security Auditing & Risk Assessment | <a href="https://github.com/hamzaishmael/Internal-Security-Audit.git">Internal Security Audit Project </a> |
-| Threat Detection & Log Analysis |<a href="https://github.com/hamzaishmael/Threat-Detection-and-Network-Log-Analysis-Using-Tcpdump.git">Threat Detection and Network Log Analysis Using Tcpdump</a> |
-| Network Traffic Analysis |<a href="https://github.com/hamzaishmael/TCP-SYN-Flood-attack-analysis.git">TCP SYN Flood Incident Analysis </a> |
-| Incident Response Fundamentals |<a href="https://github.com/hamzaishmael/Incident-analysis-using-the-NIST-Cybersecurity-Framework-CSF-.git">Incident analysis using the NIST Cybersecurity Framework CSF</a> |
-| Linux| <a href="https://github.com/hamzaishmael/File-permissions-in-Linux.git">Linux file permissions </a>
-|SQL| <a href="https://github.com/hamzaishmael/SQL-Security-Investigation-with-Filters.git">SQL Security Investigation with Filters</a>
-| SIEM Monitoring | SOC Monitoring Project |
+| Security Auditing & Risk Assessment | <a href="https://github.com/hamzaishmael/Internal-Security-Audit.git">Internal Security Audit Project</a> |
+| Threat Detection & Log Analysis | <a href="https://github.com/hamzaishmael/Threat-Detection-and-Network-Log-Analysis-Using-Tcpdump.git">Threat Detection and Network Log Analysis Using Tcpdump</a> |
+| Network Traffic Analysis | <a href="https://github.com/hamzaishmael/TCP-SYN-Flood-attack-analysis.git">TCP SYN Flood Incident Analysis</a> |
+| Incident Response Fundamentals | <a href="https://github.com/hamzaishmael/Incident-analysis-using-the-NIST-Cybersecurity-Framework-CSF-.git">Incident Analysis Using the NIST Cybersecurity Framework (CSF)</a> |
+| Linux | <a href="https://github.com/hamzaishmael/File-permissions-in-Linux.git">Linux File Permissions</a> |
+| SQL | <a href="https://github.com/hamzaishmael/SQL-Security-Investigation-with-Filters.git">SQL Security Investigation with Filters</a> |
+| HTML | Personal Portfolio & Web Development Projects |
+| CSS | Personal Portfolio & Web Development Projects |
 | Security Documentation & Reporting | NIST Risk Assessment Project |
 | Python Fundamentals for Security | Python Security Exercises |
 
@@ -38,14 +39,16 @@ My goal is to build a career in cybersecurity with a focus on Security Operation
 
 ### Security Operations & SIEM
 <div>
-   <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### Programming & Scripting
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 </div>
