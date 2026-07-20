@@ -25,7 +25,7 @@ My goal is to build a career in cybersecurity with a focus on Security Operation
 | SQL | <a href="https://github.com/hamzaishmael/SQL-Security-Investigation-with-Filters.git">SQL Security Investigation with Filters</a> |
 | HTML | Personal Portfolio & Web Development Projects |
 | CSS | Personal Portfolio & Web Development Projects |
-| Security Documentation & Reporting | NIST Risk Assessment Project |
+| Security Documentation & Reporting | <a href="https://github.com/hamzaishmael/Vulnerability-assessment-of-a-remote-database-server.git">NIST Risk Assessment Project</a> |
 | Python Fundamentals for Security | Python Security Exercises |
 
 ## Tools
