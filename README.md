@@ -26,7 +26,7 @@ My goal is to build a career in cybersecurity with a focus on Security Operation
 | HTML | Personal Portfolio & Web Development Projects |
 | CSS | Personal Portfolio & Web Development Projects |
 | Security Documentation & Reporting | <a href="https://github.com/hamzaishmael/Vulnerability-assessment-of-a-remote-database-server.git">NIST Risk Assessment Project</a> |
-| Python Fundamentals for Security | Python Security Exercises |
+| Python Fundamentals for Security | <a href="https://github.com/hamzaishmael/Python-IP-allow-list-Updater.git"> Python Algorithm for Updating an IP Allow List</a> |
 
 ## Tools
 
